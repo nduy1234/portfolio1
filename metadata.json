@@ -1,0 +1,8 @@
+{
+  "name": "Creative Portfolio & AI Studio",
+  "description": "A professional portfolio showcasing experiences and projects, featuring interactive AI demos powered by Gemini for video generation, high-fidelity image creation, and grounded search.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
